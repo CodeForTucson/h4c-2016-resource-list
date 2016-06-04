@@ -1,0 +1,20 @@
+{
+  "source": "https://www.tucsonaz.gov/welcome-tucson/citizenship-education-english-learning",
+  "resources": [ {
+    "title": "BORDER ACTION NETWORK (BAN) DREAMER RESOURCE CENTER",
+    "desription": "BAN is a human rights organization in border and immigrant communities. Their mission is to promote safety, equality, dignity, understanding and justice within the human environment, across cultures, regardless of race, sexual orientation, religious beliefs or country of origin.",
+    "link": "http://borderaction.org/",
+    "phone": "5206234944",
+    "address": "P.O. Box 384, Tucson, AZ 85702"
+  }, {
+    "title": "CATHOLIC LEGAL IMMIGRATION NETWORK, INC. (CLINIC)",
+    "description": "CLINIC promotes the dignity and protects the rights of immigrants in partnership with a dedicated network of Catholic and community legal immigration programs. CLINIC and its member agencies represent low-income immigrants without reference to their race, religion, gender, ethnic group, or other distinguishing characteristics.",
+    "link": "https://cliniclegal.org/resources/translations-citizenship-test",
+  }, {
+    "title": "CASA SAN JUAN",
+    "description": "Casa San Juan serves families living in poverty, homeless families, and immigrant families. Families also receive help with advocacy, education, workforce resources and immigration related assistance.",
+    "link": "http://www.casasanjuan.org/",
+    "phone": "5207980834",
+    "address": "602 W. Ajo Way, Tucson, AZ 85713"
+  } ]
+}
